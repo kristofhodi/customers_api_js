@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/kristofhodi/customers_api_js#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "install": "^0.13.0",
+    "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"

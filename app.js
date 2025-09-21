@@ -1,5 +1,5 @@
 import express from 'express'
-import { initializeDatabase, dbAll, dbGet, dbRun } from './util/database.js'
+import { initializeDatabase, dbAll, dbGet, dbRun } from './database.js'
 
 const app = express()
 app.use(express.json())
